@@ -17,6 +17,11 @@
 
 ### 参考文献[公式ドキュメント: JDK 17](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html)
 ### ステップ2: 例外処理を記述せよ。
-
+実行結果
+```
+❯ java Step1.java
+NullPointerExceptionが発生しました
+Cannot invoke "String.length()" because "<local1>" is null
+```
 ### ステップ3: APIリファレンスを参照してみよう。
  
