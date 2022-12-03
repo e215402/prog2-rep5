@@ -2,11 +2,8 @@ package jp.ac.uryukyu.ie.e215402;
 
 public class Step1 {
     public static void main(String[] args){
-        try{String str = null;
-            System.out.println(str.length());
-        }catch(NullPointerException e){
-            System.err.println("NullPointerExceptionが発生しました");
-            System.err.println(e.getMessage());
-        }
+        String str = "壱百満";
+        int value = Integer.parseInt(str);
+        System.out.println(value);
     }
 }

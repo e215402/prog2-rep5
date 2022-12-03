@@ -24,4 +24,10 @@ NullPointerExceptionが発生しました
 Cannot invoke "String.length()" because "<local1>" is null
 ```
 ### ステップ3: APIリファレンスを参照してみよう。
- 
+#### (1) Integer.parseInt() メソッドの定義のコピペ。
+
+
+#### (2) 上記コピペ文を読み、項目毎に分かることを解説せよ。
+
+
+#### (3) NumberFormatExceptionクラスのスーパークラスの名称と、そのクラスの概要説明文（クラス名とConstructor Summaryの間にあるはず）をコピペし、分かる範囲で解説せよ。
