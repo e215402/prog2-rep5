@@ -15,7 +15,7 @@
 * Throwable値の様にnullをスローする.
 
 
-### 参考文献:[公式ドキュメント: JDK 17](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html)
+### 参考文献[公式ドキュメント: JDK 17](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/NullPointerException.html)
 ### ステップ2: 例外処理を記述せよ。
 実行結果
 ```
@@ -39,7 +39,7 @@ the integer value represented by the argument in decimal.
 Throws:
 NumberFormatException - if the string does not contain a parsable integer.
 ```
-### 参考文献:[公式ドキュメント: JDK 17](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html#parseInt(java.lang.CharSequence,int,int,int))
+### 参考文献[公式ドキュメント: JDK 17](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/Integer.html#parseInt(java.lang.CharSequence,int,int,int))
 ### (2) 上記コピペ文を読み、項目毎に分かることを解説せよ。
 *本文<br>
 文字列の引数を符号付きの10進数として解析する．最初の文字が'+'か'-'であるかを除いて，文字列の文字は全て10進数でなければならない．
